@@ -1,0 +1,22 @@
+# 新しく知った単語まとめ
+## 例外
+- オブザーバビリティ
+- オニオンアーキテクチャ
+- ARROW-kt
+- Either 型
+- 例外の大域脱出
+- SLO/SLI
+
+## JUnit Kotest
+- Assertion
+ 
+## KMP
+- UIApplication.sharedApplication.openURL iOS
+- CustomTabsIntent
+- DataStore
+- UserDefaults iOS
+- NSUserDefaults iOS
+- MediaPlayer
+- ExoPlayer 上より新しい
+- AVPlayerViewController iOS ※KMPではこっち?
+- VideoPlayer ※ Swift UI に最適化
